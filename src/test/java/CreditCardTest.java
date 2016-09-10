@@ -1,5 +1,4 @@
-import com.clara.CreditCard;
-import org.junit.Assert;
+import com.jeremy.CreditCard;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertFalse;
